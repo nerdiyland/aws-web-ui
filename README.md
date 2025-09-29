@@ -185,16 +185,6 @@ npm run test -- --watch
 npm run test -- --coverage
 ```
 
-## 📚 Documentation
-
-For detailed technical documentation, see:
-
-- [Architecture Guide](docs/ARCHITECTURE.md) - System design and component interactions
-- [API Reference](docs/API.md) - Interface and configuration details
-- [Deployment Guide](docs/DEPLOYMENT.md) - Step-by-step deployment instructions
-- [Security Documentation](docs/SECURITY.md) - Security model and best practices
-- [Features Guide](docs/FEATURES.md) - Detailed feature explanations
-
 ## 🚨 Troubleshooting
 
 ### Common Issues
@@ -233,7 +223,7 @@ cdk destroy
 
 ## 📄 License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the [Creative Commons License 4.0 NC SA](https://creativecommons.org/licenses/by-nc-sa/4.0/) - see the [LICENSE](LICENSE) file for details.
 
 ## 🆘 Support
 
